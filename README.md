@@ -6,10 +6,10 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+Travel the World is an 'choose your own adventure' based quiz, where users are able to answer questions to create a personalised travel itinerary.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Python 3.14.0
+* Visual Studio Code
+* Tkinter
