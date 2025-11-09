@@ -38,10 +38,9 @@ Goals:
 
 ## Acknowledgements 
 For this project I have drawn inspiration and been assissted from these tutorials 
-* Geeksforgeeks. Tkinter Application to Switch Between Different Page Frames. https://www.geeksforgeeks.org/python/tkinter-application-to-switch-between-different-page-frames/ <img width="468" height="60" alt="image" src="https://github.com/user-attachments/assets/2fcf4c44-0cad-45fb-be3a-6b91e901e841" />
+* Geeksforgeeks. Tkinter Application to Switch Between Different Page Frames. https://www.geeksforgeeks.org/python/tkinter-application-to-switch-between-different-page-frames/
 * Codemy.com. Create Graphical User Interfaces With Python And Tkinter. https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV&index=1 
 * Codemy.com. Creating Buttons With Tkinter - Python Tkinter GUI Tutorial #3. https://www.youtube.com/watch?v=yuuDJ3-EdNQ&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV&index=3 
-<img width="468" height="140" alt="image" src="https://github.com/user-attachments/assets/badeca4b-51cd-4dbb-86f1-8b298be0c57e" />
 
 ## Contact
 Created by Karina Effendy for a university assessment
